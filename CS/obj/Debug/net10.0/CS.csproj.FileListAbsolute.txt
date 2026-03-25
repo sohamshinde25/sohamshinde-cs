@@ -1,0 +1,15 @@
+/Users/sohamshinde/Documents/GITHUB/sohamshinde-cs/CS/bin/Debug/net10.0/CS
+/Users/sohamshinde/Documents/GITHUB/sohamshinde-cs/CS/bin/Debug/net10.0/CS.deps.json
+/Users/sohamshinde/Documents/GITHUB/sohamshinde-cs/CS/bin/Debug/net10.0/CS.runtimeconfig.json
+/Users/sohamshinde/Documents/GITHUB/sohamshinde-cs/CS/bin/Debug/net10.0/CS.dll
+/Users/sohamshinde/Documents/GITHUB/sohamshinde-cs/CS/bin/Debug/net10.0/CS.pdb
+/Users/sohamshinde/Documents/GITHUB/sohamshinde-cs/CS/obj/Debug/net10.0/CS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sohamshinde/Documents/GITHUB/sohamshinde-cs/CS/obj/Debug/net10.0/CS.AssemblyInfoInputs.cache
+/Users/sohamshinde/Documents/GITHUB/sohamshinde-cs/CS/obj/Debug/net10.0/CS.AssemblyInfo.cs
+/Users/sohamshinde/Documents/GITHUB/sohamshinde-cs/CS/obj/Debug/net10.0/CS.csproj.CoreCompileInputs.cache
+/Users/sohamshinde/Documents/GITHUB/sohamshinde-cs/CS/obj/Debug/net10.0/CS.sourcelink.json
+/Users/sohamshinde/Documents/GITHUB/sohamshinde-cs/CS/obj/Debug/net10.0/CS.dll
+/Users/sohamshinde/Documents/GITHUB/sohamshinde-cs/CS/obj/Debug/net10.0/refint/CS.dll
+/Users/sohamshinde/Documents/GITHUB/sohamshinde-cs/CS/obj/Debug/net10.0/CS.pdb
+/Users/sohamshinde/Documents/GITHUB/sohamshinde-cs/CS/obj/Debug/net10.0/CS.genruntimeconfig.cache
+/Users/sohamshinde/Documents/GITHUB/sohamshinde-cs/CS/obj/Debug/net10.0/ref/CS.dll
