@@ -5,7 +5,11 @@ namespace CS
     {
         public static void Run()
         {
-            Console.WriteLine("Hello Math");
+            double x = 10;
+
+            double a = System.Math.Pow(x, 2);
+
+            Console.WriteLine(a);
         }
     }
 }
