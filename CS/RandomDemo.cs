@@ -1,13 +1,14 @@
 using System;
+
 namespace CS
 {
-    class Math
+    class RandomDemo
     {
         public static void Run()
         {
-            double x = 3.14;
+            System.Random random = new System.Random();
 
-            double a = System.Math.Ceiling(x);
+            int a = random.Next(1, 7);
 
             Console.WriteLine(a);
         }
