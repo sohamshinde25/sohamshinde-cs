@@ -23,6 +23,21 @@ namespace CS
             // string name1 = name.Insert(0, "Mr. ");
 
             // Console.WriteLine(name1);
+
+            // string name = "Soham Shinde";
+
+            // string name1 = name.Length.ToString();
+
+            // Console.WriteLine(name1);
+
+            // string name = "Soham Shinde";
+
+            // string firstName = name.Substring(0,5);
+            // string lastname = name.Substring(5,7);
+
+            // Console.WriteLine(firstName + lastname);
+
+
         }
     }
 }
