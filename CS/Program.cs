@@ -6,6 +6,6 @@ class Program
 {
     static void Main(String[] args)
     {
-       Student.Run();
+       AASHKA.Run();
     }
 }
