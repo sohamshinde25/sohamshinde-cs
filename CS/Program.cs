@@ -6,6 +6,6 @@ class Program
 {
     static void Main(String[] args)
     {
-       Enter.Run();
+       Day.Run();
     }
 }
