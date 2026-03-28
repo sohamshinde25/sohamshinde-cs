@@ -1,2 +1,2 @@
 # sohamshinde-cs
-This is a repo for csharp.
+This is a repo for C#.
