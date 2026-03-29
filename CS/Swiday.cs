@@ -39,6 +39,10 @@ namespace CS
                     Console.WriteLine("It's Sunday!");
                     break;
                 
+                default:
+                    Console.WriteLine(day + " is not a day");
+                    break;
+                
 
 
                 
