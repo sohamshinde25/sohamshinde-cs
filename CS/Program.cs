@@ -6,6 +6,7 @@ class Program
 {
     static void Main(String[] args)
     {
-       Swiday.Run();
+       Console.WriteLine("Hello, World!");
+       Circle.Run();
     }
 }
